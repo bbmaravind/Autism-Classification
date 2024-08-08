@@ -14,3 +14,4 @@ The Role of Machine Learning:
 How to use:
     Predict the likelihood of a person having autism using survey and demographic variables.
     Explore Autism across Gender, Age, and other variables
+
